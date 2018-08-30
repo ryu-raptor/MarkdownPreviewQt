@@ -48,7 +48,7 @@ $ MarkdownPreviewQt <Markdownファイル>
 このプログラムは表示したいMarkdownのあるディレクトリに`.preview.html`を生成します. ここに整形したHTMLが含まれており, それをロードすることで表示を行います. .preview.htmlというファイルを置いている場合は上書きするので注意してください.
 
 ## バグ
-* 表示したいMarkdownの置いてあるディレクトリに.preview.htmlというファイルを上書き作成する.
+* 表示したいMarkdownの置いてあるディレクトリに`.preview.html`というファイルを上書き作成する.
 
 ## ライセンス
 MITライセンスを適用します.
