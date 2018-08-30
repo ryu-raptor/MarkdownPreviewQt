@@ -10,6 +10,7 @@ Markdownを閲覧するためだけのシンプルなアプリケーション.
 * libmarkdown2-dev
 * qt5-default, qt5-qmake
 * libqt5webkit5-dev
+
 当方の環境ではこれで行けるのですが, これだけだと足りないかもしれません.
 
 ### ビルド方法
