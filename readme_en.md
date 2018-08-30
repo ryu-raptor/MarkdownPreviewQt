@@ -33,7 +33,8 @@ Move to the directory this file is located.
 $ ./install.sh
 ~~~
 
-This script locates a standard CSS stylesheet as `$HOME/.local/share/MarkdownViewerQt/styles.css`
+This script copies a standard CSS stylesheet as `$HOME/.local/share/MarkdownViewerQt/styles.css`
+The standard CSS is `./stylesheet/styles.css`.
 
 Then, 
 
@@ -55,5 +56,6 @@ This application creates `.preview.html` on the locations where given Markdown f
 
 ## License
 MIT License is applied to this software.
+`./stylesheet/styles.css` is taken from [qlmarkdown](https://github.com/toland/qlmarkdown). Read `./stylesheet/COPYRIGHT` for more infomation.
 
 Copyright (c) 2018 ryu-raptor

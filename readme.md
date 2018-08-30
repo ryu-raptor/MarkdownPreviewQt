@@ -34,6 +34,7 @@ $ ./install.sh
 ~~~
 
 これは標準スタイルシートを`$HOME/.local/share/MarkdownViewerQt/styles.css`として置くスクリプトです.
+標準スタイルシートは`./stylesheet/styles.css`で, 好みに応じて入れ替えることができます.
 
 そして以下を実行してリンクを作成します.
 
@@ -55,6 +56,7 @@ $ MarkdownPreviewQt <Markdownファイル>
 * 表示したいMarkdownの置いてあるディレクトリに`.preview.html`というファイルを上書き作成する.
 
 ## ライセンス
-MITライセンスを適用します.
+このソフトウェアにはMITライセンスを適用します.
+`./stylesheet/styles.css`は[qlmarkdown](https://github.com/toland/qlmarkdown)から持ってきたものです. `./stylesheet/COPYRIGHT`の内容をお読みください.
 
 Copyright (c) 2018 ryu-raptor
