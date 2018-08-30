@@ -31,6 +31,8 @@ $ ./install.sh
 
 これは標準スタイルシートを`$HOME/.local/share/MarkdownViewerQt/styles.css`として置くスクリプトです.
 
+そして以下を実行してリンクを作成します.
+
 ~~~
 $ ln -s $PWD/build/MarkdownViewerQt <お好きな場所>/MarkdownViewerQt
 ~~~
