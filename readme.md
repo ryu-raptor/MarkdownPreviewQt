@@ -2,6 +2,9 @@
 
 Markdownを閲覧するためだけのシンプルなアプリケーション.
 
+### スクリーンショット
+![Screenshot for JP](screenshots/forJP.png)
+
 ## ビルド
 
 ### 要件

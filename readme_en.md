@@ -2,6 +2,9 @@
 
 A simple application to preview Markdown files.
 
+### Screenshot
+![Screenshot for EN](screenshots/forEN.png)
+
 ## Building the application
 
 ### Requirements
