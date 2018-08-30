@@ -13,6 +13,7 @@ Now it supports only Ubuntu.
 * libmarkdown2-dev
 * qt5-default, qt5-qmake
 * libqt5webkit5-dev
+
 In my environment, this works. However it may lack some requirements.
 
 ### Building procedure
