@@ -7,12 +7,20 @@ Markdownを閲覧するためだけのシンプルなアプリケーション.
 
 ## ビルド
 
-### 要件
-現在はUbuntuのみで確認しております.
+ビルド確認のできた Linux
+- Ubuntu
+- ArchLinux
 
+### 要件
+#### Ubuntu
 * libmarkdown2-dev
 * qt5-default, qt5-qmake
 * libqt5webkit5-dev
+
+#### ArchLinux
+- qt5-base
+- qt5-webkit
+- discount
 
 当方の環境ではこれで行けるのですが, これだけだと足りないかもしれません.
 
